@@ -1,0 +1,46 @@
+	body
+	{
+		background:url(https://image.freepik.com/free-vector/black-blue-techno-corporate-business-background-design-template_8306-237.jpg);
+		background-color: #cccccc;
+		background-size:1500px 700px;
+		color: white;
+	}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		background-color:rgb(43, 43, 43) ;
+		color:white;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+color: black;
+}
+
+#send
+{
+color: black;
+}
